@@ -1,2 +1,2 @@
 # usb-expose-a-teacher
-Simón Bolívar University - CI5644 - Programming Tools for the Internet - Expose a Teacher
+Universidad Simón Bolívar - CI5644 - Programming Tools for the Internet - Expose a Teacher
